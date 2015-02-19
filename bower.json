@@ -1,0 +1,5 @@
+{
+  "name": "PHP Tag Cloud",
+  "version": "0.0.1",
+  "main": "src/TagCloud.php"
+}
